@@ -1,0 +1,3 @@
+/Users/kefircik/CLionProjects/MO/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kefircik/CLionProjects/MO/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kefircik/CLionProjects/MO/lab5/cmake-build-debug/CMakeFiles/lab7.dir
